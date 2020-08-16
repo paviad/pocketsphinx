@@ -30,6 +30,7 @@
     <ClCompile Include="..\..\src\libpocketsphinx\allphone_search.c" />
     <ClCompile Include="..\..\src\libpocketsphinx\ps_alignment.c" />
     <ClCompile Include="..\..\src\libpocketsphinx\state_align_search.c" />
+    <ClCompile Include="..\..\..\pocketsphinx-android\build\generated-src\cpp\pocketsphinx_cs_wrap.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\cmdln_macro.h" />
